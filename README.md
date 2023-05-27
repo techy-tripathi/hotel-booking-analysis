@@ -3,6 +3,8 @@ This report talks about the bookings and cancellations of various hotels around 
 ![Hotel image](https://github.com/techy-tripathi/hotel-booking-analysis/assets/19207297/e16a1808-d6e7-4213-933c-1ed8fdd2092f)
 
 Some suggestions/conclusions have been derived from the report:
+
+
 ● Cancellation rates rise as the price does. In order to prevent cancellations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the clients.
 ● The resort hotels experienced lesser cancellations as compared to city hotels. So the city hotels can provide some reasonable discounts on room prices on weekends and holidays to prevent cancellations.
 ● In the month of January, the hotels can start campaigns or bring some relaxations in their pricing strategies to increase their revenue as the cancellations are highest in this month.
