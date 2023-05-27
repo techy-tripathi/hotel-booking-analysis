@@ -2,6 +2,7 @@
 This report talks about the bookings and cancellations of various hotels around the world. The detailed analysis on the hotel’s bookings and cancellations will help in bringing out the useful insights which could help the hotels in transforming their pricing and marketing strategies, which may prevent cancellations and increase bookings, ultimately aiding to increase the hotels revenue.
 
 ![Hotel image](https://github.com/techy-tripathi/hotel-booking-analysis/assets/19207297/e16a1808-d6e7-4213-933c-1ed8fdd2092f)
+
 Some suggestions/conclusions have been derived from the report:
 
 
