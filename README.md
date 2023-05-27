@@ -6,10 +6,10 @@ This report talks about the bookings and cancellations of various hotels around 
 Some suggestions/conclusions have been derived from the report:
 
 
-● Cancellation rates rise as the price does. In order to prevent cancellations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the clients.
+● Cancellation rates rise as the price rises. In order to prevent cancellations, hotels should work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the clients.
 
 ● The resort hotels experienced lesser cancellations as compared to city hotels. So the city hotels can provide some reasonable discounts on room prices on weekends and holidays to prevent cancellations.
 
-● In the month of January, the hotels can start campaigns or bring some relaxations in their pricing strategies to increase their revenue as the cancellations are highest in this month.
+● In the month of January, the cancellations are highest, hotels can start campaigns or bring some relaxations in their pricing strategies to increase their revenue.
 
-● They can also improve the quality and services of their hotel rooms especially in Portugal as the cancellations are highest in this country.
+● Hotels in Portugal should look upon the quality and services of the rooms provided as the cancellations are highest in this country.
